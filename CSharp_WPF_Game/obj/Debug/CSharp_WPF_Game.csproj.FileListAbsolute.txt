@@ -1,0 +1,5 @@
+D:\工具列\Documents\Visual Studio 2017\Projects\CSharp_WPF_Game\obj\Debug\CSharp_WPF_Game.csprojResolveAssemblyReference.cache
+D:\工具列\Documents\Visual Studio 2017\Projects\CSharp_WPF_Game\obj\Debug\MainWindow.g.cs
+D:\工具列\Documents\Visual Studio 2017\Projects\CSharp_WPF_Game\obj\Debug\App.g.cs
+D:\工具列\Documents\Visual Studio 2017\Projects\CSharp_WPF_Game\obj\Debug\CSharp_WPF_Game_MarkupCompile.cache
+D:\工具列\Documents\Visual Studio 2017\Projects\CSharp_WPF_Game\obj\Debug\CSharp_WPF_Game_MarkupCompile.lref
